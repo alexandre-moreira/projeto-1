@@ -1,2 +1,3 @@
 const m = "Mercado pago";
-console.log(m);
+const v = "Vendedor";
+console.log(m,v);
